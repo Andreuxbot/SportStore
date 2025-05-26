@@ -1,5 +1,3 @@
-# main.py
-
 productos = []
 
 def crear_producto(producto):

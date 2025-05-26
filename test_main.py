@@ -1,5 +1,3 @@
-# test_main.py
-
 import main
 
 def setup_function():
